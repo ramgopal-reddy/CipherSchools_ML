@@ -1,10 +1,9 @@
-````
+---
 # Product Purchase Likelihood Predictor
 
 ## Goal
 
 Predict whether a customer is likely to purchase a product using machine learning models. This is a **binary classification** task based on behavioral and demographic customer data.
-
 ---
 
 ## Problem Statement
@@ -35,18 +34,15 @@ We trained and compared the performance of two classification models:
 - **Logistic Regression**
 - **Decision Tree Classifier**
 
----
-
 ## How to Run the Project
 
 ### Requirements
 
 Make sure you have Python installed along with the following libraries:
 
-```bash
+```
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
-````
 
 ---
 
@@ -100,6 +96,4 @@ product-purchase-predictor/
 - Deploy the model with Streamlit or Flask for live predictions
 - Add additional algorithms (e.g., Random Forest, XGBoost)
 
-```
-
-```
+---
