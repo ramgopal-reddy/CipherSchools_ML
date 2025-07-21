@@ -1,4 +1,4 @@
-````markdown
+````
 # Product Purchase Likelihood Predictor
 
 ## Goal
@@ -94,11 +94,11 @@ product-purchase-predictor/
 
 ## Future Improvements
 
-- [ ] Add feature importance analysis (e.g., SHAP values, permutation importance)
-- [ ] Tune hyperparameters with GridSearchCV or RandomizedSearchCV
-- [ ] Save models using `joblib` or `pickle` for deployment
-- [ ] Deploy the model with Streamlit or Flask for live predictions
-- [ ] Add additional algorithms (e.g., Random Forest, XGBoost)
+- Add feature importance analysis (e.g., SHAP values, permutation importance)
+- Tune hyperparameters with GridSearchCV or RandomizedSearchCV
+- Save models using `joblib` or `pickle` for deployment
+- Deploy the model with Streamlit or Flask for live predictions
+- Add additional algorithms (e.g., Random Forest, XGBoost)
 
 ```
 
